@@ -12,7 +12,7 @@ Start by identifying and listing issues or questions that you may need to addres
 
 ## Duration
 
-Up to 2 hours.
+Up to 45 minutes.
 
 ## Submission
 1.  Document your plan in a Word document. Include screenshots of architectural diagrams or other docs within the Word document.
